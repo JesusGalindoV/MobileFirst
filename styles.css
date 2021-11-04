@@ -17,3 +17,8 @@
     --off-white: #FAF8F7;
     --white: #fff
 }
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
